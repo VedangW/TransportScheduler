@@ -1,8 +1,14 @@
 language: elixir
 elixir:
+<<<<<<< HEAD
 - 1.5.1
 otp_release:
 - 20.0
+=======
+- 1.4.1
+otp_release:
+- 19.0
+>>>>>>> 3ac93fe9adabbe7125149d9aa97bf53ef141e6ac
 
 install:
 - bash script/travis-install

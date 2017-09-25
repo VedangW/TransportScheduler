@@ -1,2 +1,0 @@
-defmodule TS do
-end
